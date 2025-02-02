@@ -13,4 +13,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\HAM\" />
+    <Folder Include="bin\Debug\net8.0\OLMUŞ\" />
+  </ItemGroup>
+
 </Project>
